@@ -1,6 +1,4 @@
-<img src="https://lionbridge.ai/wp-content/uploads/2020/09/2020-09-17_movie-recommendation-system.jpg" width="300" align="right" />
-
-A Mood-Based Movie Recommendation System
+# A Mood-Based Movie Recommendation System
 
 ### Project Overview
 
